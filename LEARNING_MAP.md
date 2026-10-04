@@ -1,12 +1,19 @@
 # Learning Map
 
-This document tracks the knowledge domains that the apprenticeship is intended to expose the intern to. It is a map, not a checklist to rush through.
+This document tracks the knowledge domains the apprenticeship is intended to expose the intern to. It is a map, not a checklist to rush through. Topics should be marked complete only when the intern can explain and apply them, not merely recognize the terminology.
+
+## Current Baseline
+
+The intern currently has practical exposure to basic programming/Linux/networking concepts and is beginning this apprenticeship with limited familiarity with production web architecture and operations terminology.
 
 ## Core Engineering
 
+- [ ] Requirements and product thinking
+- [ ] Functional vs non-functional requirements
+- [ ] System boundaries and actors
 - [ ] Git and collaborative software development
 - [ ] Software architecture
-- [ ] Requirements and product thinking
+- [ ] Architecture decision records
 - [ ] Testing and quality engineering
 - [ ] Debugging and troubleshooting
 - [ ] Documentation and engineering decisions
@@ -19,7 +26,9 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] REST/API design
 - [ ] Browser architecture
 - [ ] Authentication and authorization
+- [ ] Sessions and cookies
 - [ ] Web application architecture
+- [ ] Input validation and error handling
 
 ## Data
 
@@ -37,6 +46,7 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] Filesystems and permissions
 - [ ] Shell automation
 - [ ] System troubleshooting
+- [ ] Resource management
 
 ## Networking
 
@@ -47,6 +57,7 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] Firewalls
 - [ ] NAT
 - [ ] TLS
+- [ ] Reverse proxies
 - [ ] Load balancing
 - [ ] Application networking
 - [ ] Cloud networking
@@ -55,12 +66,15 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 
 - [ ] Virtualization
 - [ ] Containers and Docker
-- [ ] Reverse proxies
+- [ ] Container networking
+- [ ] Reverse-proxy deployment
 - [ ] CI/CD
 - [ ] Infrastructure as code
 - [ ] Cloud fundamentals
+- [ ] IAM
 - [ ] Monitoring and observability
 - [ ] Reliability and scaling
+- [ ] Backup and recovery
 
 ## Cybersecurity
 
@@ -75,11 +89,13 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] Cloud security
 - [ ] Container security
 - [ ] DevSecOps
+- [ ] Security architecture
 
 ## Blue Team / SOC
 
 - [ ] Logging
 - [ ] Log collection and normalization
+- [ ] Audit trails
 - [ ] Detection engineering
 - [ ] IOC analysis
 - [ ] Threat hunting
@@ -88,6 +104,7 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] Incident investigation
 - [ ] Containment and response
 - [ ] Incident reporting
+- [ ] Post-incident review
 
 ## Advanced Engineering
 
@@ -96,6 +113,7 @@ This document tracks the knowledge domains that the apprenticeship is intended t
 - [ ] Fault tolerance
 - [ ] High availability
 - [ ] System design
+- [ ] Reliability engineering
 - [ ] Security architecture
 
 ## Learning Principle
