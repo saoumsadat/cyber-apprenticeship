@@ -6,11 +6,11 @@
 
 ## Current Assignment
 
-**ASSIGNMENT-001 — Establish the apprenticeship repository infrastructure**
+**ASSIGNMENT-001 — Product Discovery and System Requirements**
 
 ### Status
 
-**IN PROGRESS**
+**READY TO START**
 
 ## Completed
 
@@ -21,16 +21,24 @@
 - [x] Configured GitHub SSH authentication
 - [x] Successfully pushed the initial commit to `main`
 - [x] Established this repository as the long-term source of truth
+- [x] Established the Senior Engineer as the owner of product/architecture direction
+
+## Product Direction
+
+The Senior Engineer will select the application and progressively define its requirements, architecture, technology choices, infrastructure, security objectives, and learning path. The intern's responsibility is to implement, experiment, test, troubleshoot, and explain the work rather than choosing a project merely because it is familiar.
+
+The application will be selected specifically because its lifecycle can expose the intern to a broad range of modern engineering and cybersecurity domains: software development, web architecture, networking, Linux, databases, authentication, infrastructure, containers, CI/CD, cloud, application security, observability, detection engineering, and incident response.
 
 ## Remaining
 
-- [ ] Create and verify the local workspace structure
-- [ ] Establish the initial project documentation set
-- [ ] Complete the first architecture/product specification assignment
+- [ ] Receive the initial product brief from the Senior Engineer
+- [ ] Complete product discovery and requirements exercise
+- [ ] Establish the first architecture baseline
+- [ ] Begin implementation only after requirements and architecture review
 
 ## Next Engineering Milestone
 
-After the workspace infrastructure is verified, begin the product-definition and architecture phase before writing application code.
+Product-definition and architecture phase. No application implementation begins until the Senior Engineer has established the product brief and reviewed the intern's understanding of the requirements.
 
 ## Synchronization Rule
 
